@@ -1,3 +1,7 @@
+## 1.1.2 (unreleased)
+
+- Fixed external redirects with Rails 7 for v1
+
 ## 1.1.1 (2021-03-06)
 
 - Added support for classes for subscribers
